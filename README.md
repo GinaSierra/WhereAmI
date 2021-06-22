@@ -1,5 +1,5 @@
 # WhereAmI
-Adaptive Monte Carlo Localization in ROS to localize a robot.
+This project interfaces a mobile robot with the Adaptive Monte Carlo Localization algorithm in ROS to estimate the robot’s position as it travels through a predefined set of waypoints.
 
 <img src="Screenshot 2021-05-24 1138331.png" />
 
